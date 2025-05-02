@@ -4,8 +4,8 @@ seft-introduce:
   hey: xin chào | hello
   achievement: still alive
   skill: mostly mess with foundation model
-  tech-stack: vibecoding
-  tool: windsuft
+  tech-stack: AIcraft
+  tool: VS Code with Cline
 
 status: 
   🤖: crafting stuff
